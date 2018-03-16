@@ -1,0 +1,16 @@
+{
+    "name": "keyes/exceptions",
+    "description": "Some library specific exceptions",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karel Saroch",
+            "email": "karel.saroch@seznam.cz"
+        }
+    ],
+    "minimum-stability": "dev"
+}
