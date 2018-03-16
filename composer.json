@@ -12,5 +12,11 @@
             "email": "karel.saroch@seznam.cz"
         }
     ],
-    "minimum-stability": "dev"
+    "autoload": {
+        "psr-4": {
+            "Keyes\\Exceptions\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
